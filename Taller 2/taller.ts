@@ -107,7 +107,7 @@ console.log(esPar(8));
 
 function motos(
   marca: string,
-  categoria: string = "¡Hola!",
+  categoria: string = "SBK!",
   puntuacion?: string
 ): void {
   let bike = `${categoria} ${marca}`;
